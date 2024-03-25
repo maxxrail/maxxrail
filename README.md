@@ -6,7 +6,7 @@
 <!-- Intro  -->
 <h1 align="center">
          Hey, I'm
-                <b><a target="_blank" href="https://www.linkedin.com/in/maximillian-r-6a27a3138/">Maximillian</a></b>
+                <b><a target="_blank" href="https://www.linkedin.com/in/maximillian-r-6a27a3138/">Maxx</a></b>
         </samp>
 </h1>
 
