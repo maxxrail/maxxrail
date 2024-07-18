@@ -12,7 +12,7 @@
 
 
 <p align="center">
- <a href="[https://www.linkedin.com/in/maximillian-r-6a27a3138/](https://maxxrail.github.io/index.html)" target="blank">
+ <a href="https://maxxrail.github.io/index.html" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="maxxrail" />
  </a>  
  <a href="https://www.linkedin.com/in/maximillian-r-6a27a3138/" target="_blank">
