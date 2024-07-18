@@ -1,6 +1,9 @@
-
 <a href="https://komarev.com/ghpvc/?username=maxxrail">
   <img align="right" src="https://komarev.com/ghpvc/?username=maxxrail&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+
+<a href="https://komarev.com/ghpvc/?username=maxxhaila">
+  <img align="right" src="https://komarev.com/ghpvc/?username=maxxhaila&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 <!-- Intro  -->
@@ -9,8 +12,6 @@
                 <b><a target="_blank" href="https://www.linkedin.com/in/maximillian-r-6a27a3138/">Maxx</a></b>
         </samp>
 </h1>
-
-
 
 <p align="center">
  <a href="https://www.linkedin.com/in/maximillian-r-6a27a3138/" target="blank">
@@ -28,7 +29,6 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
-
 👀 &emsp; I’m interested in Software and Hardware Engineering <br/><br/>
 🌱 &emsp; I’m currently learning Machine Learning Algorithms <br/><br/>
 📫 &emsp; How to reach me: maxxrailton@gmail.com
@@ -59,19 +59,29 @@
   <a href="https://github.com/maxxrail">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxxrail&theme=radical&border=7F3FBF&background=0D1117" alt="Maxx's GitHub streak"/>
   </a>
+  <a href="https://github.com/maxxhaila">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxxhaila&theme=radical&border=7F3FBF&background=0D1117" alt="Haila's GitHub streak"/>
+  </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/maxxrail">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maxxrail&theme=radical" alt="Maxx's GitHub Contribution"/>
   </a>
+  <a href="https://github.com/maxxhaila">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maxxhaila&theme=radical" alt="Haila's GitHub Contribution"/>
+  </a>
 </p>
 
 <a> 
-    <a href="https://github.com/maxxrail"><img alt="Maxx's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=maxxrail&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/maxxrail"><img alt="Maxx's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=maxxrail&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/maxxrail"><img alt="Maxx's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=maxxrail&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/maxxhaila"><img alt="Haila's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=maxxhaila&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
+<p align="center">
+  <a href="https://github.com/maxxrail"><img alt="Maxx's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=maxxrail&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/maxxhaila"><img alt="Haila's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=maxxhaila&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+</p>
 
-![Maxx Railton's Graph](https://github-readme-activity-graph.vercel.app/graph?username=maxxrail&custom_title=Maxx%20Railton's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Maxx and Haila's Graph](https://github-readme-activity-graph.vercel.app/graph?username=maxxrail,maxxhaila&custom_title=Maxx%20and%20Haila's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
